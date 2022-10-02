@@ -4,7 +4,7 @@ import { Headline } from '../shared/typography/Headline';
 export default () => {
     return (
         <Layout>
-            <Headline>Home</Headline>
+            <Headline>About</Headline>
         </Layout>
     );
 };

@@ -1,10 +1,9 @@
 import { Layout } from '../shared/layout/Layout';
-import { Headline } from '../shared/typography/Headline';
 
 export default () => {
     return (
         <Layout>
-            <Headline>Home</Headline>
+            <h3>Could not find page</h3>
         </Layout>
     );
 };
